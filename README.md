@@ -3,7 +3,7 @@
 
 - 🏫 Computer Science Major **Northern Kentucky University**
 
-- 🌱 I’m currently learning **Node js**
+- 🌱 I’m currently learning **Full-stack Development **
 
 - 👨‍💻 Language that I mostly use now [JavaScript](JavaScript)
 
