@@ -38,7 +38,7 @@
   
   
   <img width="12" />
-  <img src="https://static.cdnlogo.com/logos/j/86/java.png" height="40" alt="jest logo"  />
+  <img src="https://w7.pngwing.com/pngs/837/18/png-transparent-logo-java-runtime-environment-programming-language-runtime-system-oracle-text-logo-desktop-wallpaper-thumbnail.png" height="40" alt="jest logo"  />
 </div>
 
 ###
