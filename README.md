@@ -33,7 +33,7 @@
   <img width="12" />
   
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img src="https://static.cdnlogo.com/logos/j/86/java.svg" height="40" alt="jest logo"  />
 </div>
 
 ###
