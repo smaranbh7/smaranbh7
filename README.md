@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full-stack Development**
 
-- 👨‍💻 Language that I mostly use now [JavaScript](JavaScript)
+- 👨‍💻 Language that I mostly use now [JavaScript]()
 
 - 📫 How to reach me **smaran10.bhattarai@gmail.com**
 
