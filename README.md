@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Smaran and I'm a Computer Sience student</p>
+<p align="left">My name is Smaran Bhattarai. I am 21 years old and I'm a Computer Sience student</p>
 
 ###
 
