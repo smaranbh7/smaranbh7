@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Backend.<br>🎯 Goals: MERN-stack<br>🎲 Fun fact: I play guitar</p>
+<p align="left">✨ Coding since 2019<br>📚 I'm currently learning Backend.<br>🎯 Goals: MERN-stack<br>🎲 Fun fact: I play guitar</p>
 
 ###
 
