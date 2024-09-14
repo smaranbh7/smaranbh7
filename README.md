@@ -4,7 +4,7 @@
 - 🇺🇸 Currently based on **KY, USA**   
 
 - 🏫 Computer Science Major **Northern Kentucky University**
-
+ 
 - 🌱 I’m currently learning **Node js**
 
 - 👨‍💻 Language that I mostly use now **JavaScript**
