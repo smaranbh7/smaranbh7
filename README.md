@@ -3,13 +3,13 @@
 
 - 🇺🇸 Currently based on **KY, USA**   
  
-- 🏫 Computer Science Major **Northern Kentucky University**
+- 🏫 Computer Science Major @ **Northern Kentucky University**
  
 - 🌱 I’m currently learning **Node JS/Next JS**
 
-- 👨‍💻 Language that I am currently working **JavaScript**
+- 👨‍💻 Language that I am currently working with **JavaScript**
 
-- 📫 How to reach me **smaran10.bhattarai@gmail.com**
+- 📫 How to reach me -->**smaran10.bhattarai@gmail.com**
 
 - 🎸 Fun fact **I play guitar**
 
