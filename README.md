@@ -7,7 +7,7 @@
  
 - 🌱 I’m currently learning **Node JS/Next JS**
 
-- 👨‍💻 Language that I mostly use now **JavaScript**
+- 👨‍💻 Language that I am currently working **JavaScript**
 
 - 📫 How to reach me **smaran10.bhattarai@gmail.com**
 
