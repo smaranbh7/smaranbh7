@@ -5,13 +5,13 @@
    
 - 🏫 Computer Science Major @ **Northern Kentucky University**
  
-- 🌱 I’m currently learning **Next JS/LangChain 🦜🔗**
+- 🌱 I’m currently learning **Next JS/LangChain 🦜🔗 **
 
 - 👨‍💻 Language that I am currently working with **JavaScript**
 
 - 📫 How to reach me **smaran10.bhattarai@gmail.com**
 
-- 🎸 Fun fact **I play guitar**
+- 🎸 Fun fact **I can play guitar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
