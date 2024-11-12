@@ -9,7 +9,7 @@
 
 - 👨‍💻 Language that I am currently working with **JavaScript**
 
-- 📫 How to reach me **smaran10.bhattarai@gmail.com**
+- 📫 Reach out to me via **smaran10.bhattarai@gmail.com**
 
 - 🎸 Fun fact **I can play guitar**
 
