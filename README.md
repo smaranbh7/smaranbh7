@@ -5,7 +5,7 @@
    
 - 🏫 Computer Science Major @ **Northern Kentucky University**
  
-- 🌱 I’m currently foucsing in **Data Structures & Next JS </>**
+- 🌱 I’m currently focusing in **Data Structures & Next JS </>**
 
 - 👨‍💻 Language that I am currently working with **Java & JavaScript ♨️**
 
