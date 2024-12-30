@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack developer</h3>
   
 - 🇺🇸 Currently based on **KY, USA**    
-   
+    
 - 🏫 Computer Science Major @ **Northern Kentucky University**
  
 - 🌱 I’m currently focusing in **Data Structures & Next JS </>**
