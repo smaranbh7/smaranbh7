@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Smaran Bhattarai</h1>
 <h3 align="center">A passionate Full-Stack developer</h3>
   
-- 🇺🇸 Currently based on **KY, USA**     
+- 🇺🇸 Currently based on **KY, USA**      
     
 - 🏫 Computer Science Major @ **Northern Kentucky University**
  
