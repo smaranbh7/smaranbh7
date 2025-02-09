@@ -9,14 +9,14 @@
 <h1 align="center">Hi 👋, I'm Smaran Bhattarai</h1>
 <h3 align="center">A passionate Full-Stack developer</h3>
   
-- 🇺🇸 Currently based on **KY, USA**, Originally from **Nepal **![image](https://github.com/user-attachments/assets/f1a5dbd4-5362-44df-a845-68f21746351f)
+- 🇺🇸 Currently based on **KY, USA**
 
     
 - 🏫 Computer Science Major @ **Northern Kentucky University**
  
-- 🌱 I’m currently focusing in **Data Structures & Next JS </>**
+- 🌱 I’m currently focusing in **Data Structures </>**
 
-- 👨‍💻 Language that I am currently working with **Java & JavaScript ♨️**
+- 👨‍💻 Language that I am currently working with **Java, CPP & JavaScript ♨️**
 
 - 📫 Reach out to me via **smaran10.bhattarai@gmail.com**
 
