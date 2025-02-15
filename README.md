@@ -1,4 +1,4 @@
-<h3 align="center">A passionate Full Stack developer Based on KY, USA 🇺🇸 </h3>
+<h3 align="center">Full Stack developer Based on KY, USA 🇺🇸 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smaranbh7&label=Profile%20views&color=0e75b6&style=flat" alt="smaranbh7" /> </p>
 
