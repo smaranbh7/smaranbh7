@@ -1,4 +1,4 @@
-<h3 align="center">A passionate Full Stack developer from Nepal</h3>
+<h3 align="center">A passionate Full Stack developer Based on KY, USA 🇺🇸/h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smaranbh7&label=Profile%20views&color=0e75b6&style=flat" alt="smaranbh7" /> </p>
 
@@ -14,13 +14,10 @@
     
 - 🏫 Computer Science Major @ **Northern Kentucky University**
  
-- 🌱 I’m currently focusing in **Data Structures </>**
-
 - 👨‍💻 Language that I am currently working with **Java, CPP & JavaScript ♨️**
 
 - 📫 Reach out to me via **smaran10.bhattarai@gmail.com**
 
-- 🎸 Fun fact **I can play guitar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
