@@ -4,7 +4,7 @@
 </p>
  
 <h1 align="center">Hi 👋, I'm Smaran Bhattarai</h1>
-<h3 align="center">A Full-Stack developer</h3>
+<h3 align="center">A Full-Stack Software Engineer</h3>
   
 - 🇺🇸 Currently based on **KY, USA**
 
