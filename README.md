@@ -11,7 +11,7 @@
     
 - 🏫 Computer Science Major @ **Northern Kentucky University**
  
-- 👨‍💻 Language that I am currently working with **Java, CPP & JavaScript ♨️**
+- 👨‍💻 Language that I am currently working with **Python, CPP & JavaScript ♨️**
 
 - 📫 Reach out to me via **smaran10.bhattarai@gmail.com**
 
@@ -83,6 +83,20 @@
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
   </a> 
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
+  </a> 
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  </a> 
+  <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Streamlit-logo.svg" alt="streamlit" width="40" height="40"/>
+  </a> 
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  </a> 
+
+
 </p>
 
 
