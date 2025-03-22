@@ -11,8 +11,8 @@
 - 🎓 **Computer Science Major** at **Northern Kentucky University**  
 - 🏠 **Based in Kentucky, USA 🇺🇸**  
 - 💻 Passionate about **Web Development, AI, and Scalable Systems**  
-- 🌱 Currently exploring **Deep Learning & Cloud Computing**  
-- 🛠️ Building cool stuff with **Python, C++, JavaScript, and more**  
+- 🌱 Currently exploring **Machine Learning**  
+- 🛠️ Building cool stuff with **Python, C++, JavaScript**  
 - 📫 Reach out to me at **smaran10.bhattarai@gmail.com**  
 
 ---
