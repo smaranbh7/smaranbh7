@@ -1,4 +1,24 @@
+<h1 align="center">Hi 👋, I'm Smaran Bhattarai</h1>
+<h3 align="center">A Full-Stack Software Engineer & Machine Learning Enthusiast</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=smaranbh7&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+---
+
+### 🚀 About Me  
+- 🎓 **Computer Science Major** at **Northern Kentucky University**  
+- 🏠 **Based in Kentucky, USA 🇺🇸**  
+- 💻 Passionate about **Web Development, AI, and Scalable Systems**  
+- 🌱 Currently exploring **Deep Learning & Cloud Computing**  
+- 🛠️ Building cool stuff with **Python, C++, JavaScript, and more**  
+- 📫 Reach out to me at **smaran10.bhattarai@gmail.com**  
+
+---
+
 ### 🛠️ Tech Stack  
+
 #### 💻 Programming Languages  
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -29,4 +49,27 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+---
+
+### 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smaranbh7&theme=tokyonight" alt="streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=smaranbh7&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+
+---
+
+### 📫 Connect with Me  
+<p align="left">
+<a href="https://linkedin.com/in/smaranbhattarai" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://instagram.com/smar7n_" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
 </p>
