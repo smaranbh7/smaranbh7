@@ -12,7 +12,7 @@
 - 🏠 **Based in Kentucky, USA 🇺🇸**  
 - 💻 Passionate about **Web Development, AI, and Scalable Systems**  
 - 🌱 Currently exploring **Machine Learning**  
-- 🛠️ Building cool stuff with **Python, Java & JavaScript**  
+- 🛠️ Building cool stuff with **Java & JavaScript**  
 - 📫 Reach out to me at **smaran10.bhattarai@gmail.com**  
 
 ---
