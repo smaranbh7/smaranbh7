@@ -9,7 +9,7 @@
 
 ### 🚀 About Me  
 - 🎓 **Computer Science Major** at **Northern Kentucky University**  
-- 🏠 **Based in Greater Cincinnati, USA 🇺🇸**  
+- 🏠 **Based in Greater Cincinnati, United States 🇺🇸**  
 - 💻 Passionate about **Web Development, AI, and Scalable Systems**  
 - 🌱 Currently exploring **Spring Boot**  
 - 🛠️ Building cool stuff with **Java & JavaScript**  
