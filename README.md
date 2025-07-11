@@ -10,8 +10,7 @@
 ### 🚀 About Me  
 - 🎓 **Computer Science Major** at **Northern Kentucky University**  
 - 🏠 **Based in Greater Cincinnati, United States 🇺🇸**  
-- 💻 Passionate about **Web Development, AI, and Scalable Systems**  
-- 🌱 Currently exploring **Spring Boot**  
+- 💻 Passionate about **Web Development, AI, and Scalable Systems**   
 - 🛠️ Building cool stuff with **Java & JavaScript**  
 - 📫 Reach out to me at **smaran10.bhattarai@gmail.com**  
 
